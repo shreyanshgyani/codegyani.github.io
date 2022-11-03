@@ -1,0 +1,63 @@
+body{
+  margin: 0%;
+ background-color: rgb(0, 0, 0);
+ font-family: Helvetica;
+}
+
+
+
+a:hover{
+  color: #4879ff;
+}
+
+a{
+  font-family: Bahnschrift SemiBold;
+  text-decoration: none;
+  color: white;
+}
+
+li {
+  float: left;
+  overflow: hidden;
+  text-decoration: none;
+}
+
+.bar{
+ 
+  margin: 0%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  overflow: hidden;
+  background-color: rgb(0, 0, 0);
+  text-indent: 40px;
+  font-size: 20px;
+  
+}
+
+/* My intro */
+.hol{
+  margin-top: 13%;
+  color: aliceblue;
+  margin-left: 8%;
+  font-size: 30px;
+  line-height: 0.05;
+}
+
+/* hi there */
+.bs{
+  font-family: "Sofia", sans-serif;
+  font-size: 150px;
+}
+.date{
+  font-size: 50px;
+  font-family: Bahnschrift SemiBold;
+  color: #4678ff;
+}
+.hs{
+  font-size: 65px;
+  line-height: 0.2;
+}
+.cg{
+  margin-top: -0.5%;
+  margin-left: 61.5%;
+}
